@@ -6,13 +6,13 @@
 
 欢迎来到 Scintela 星火开源社区!
 
-🌐 文档站 / Docs:[scintela.github.io/docs](https://scintela.github.io/docs/)
-
 </div>
 
 Scintela 是一个专注于**端侧 AI 与嵌入式智能系统**的开源技术社区。
 
 我们汇聚工程师、开源爱好者和高校学生,共同探索轻量化、开放和可复现的端侧智能技术。
+
+🌐 文档站 / Docs:[scintela.github.io/docs](https://scintela.github.io/docs/)
 
 ## 技术方向
 
