@@ -20,9 +20,9 @@ During cold start we keep the bar low: a one-click repro script is not yet manda
 
 ## 2. 贡献教程 / Tutorials
 
-我们想要的是端到端、真踩坑、可照做的教程,而不是营销稿。欢迎先开 Issue 或写信到 hello@scintela.dev 讨论选题。
+我们想要的是端到端、真踩坑、可照做的教程,而不是营销稿。欢迎先开 Issue 或写信到 Scintela@outlook.com 讨论选题。
 
-We want end-to-end, warts-and-all, follow-along tutorials — not marketing posts. Open an issue or write to hello@scintela.dev to discuss topics first.
+We want end-to-end, warts-and-all, follow-along tutorials — not marketing posts. Open an issue or write to Scintela@outlook.com to discuss topics first.
 
 ## 3. 贡献翻译 / Translations
 
