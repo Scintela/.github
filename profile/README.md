@@ -6,6 +6,8 @@
 
 欢迎来到 Scintela 星火开源社区!
 
+🌐 文档站 / Docs:[scintela.github.io/docs](https://scintela.github.io/docs/)
+
 </div>
 
 Scintela 是一个专注于**端侧 AI 与嵌入式智能系统**的开源技术社区。
