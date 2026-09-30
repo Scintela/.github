@@ -1,0 +1,25 @@
+name: Welcome contributor
+
+on:
+  workflow_call:
+
+jobs:
+  welcome:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
+    steps:
+      - uses: actions/first-interaction@v1
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          issue-message: |
+            👋 欢迎来到 **Scintela 星烁**!这是你在这里的第一个 issue,感谢参与。
+            📖 [贡献指南](https://github.com/Scintela/.github/blob/main/CONTRIBUTING.md) · 🌐 [社区文档站](https://scintela.github.io/docs/) · 💡 [硬件点亮榜](https://scintela.github.io/docs/matrix/lightboard)
+
+            Hello and welcome to **Scintela**! This is your first issue here — thanks for showing up. 🌟
+          pr-message: |
+            🔥 欢迎来到 **Scintela 星烁**——这是你的第一个 PR!星星之火,可以燎原。
+            📖 [贡献指南](https://github.com/Scintela/.github/blob/main/CONTRIBUTING.md) · 📜 [行为准则](https://github.com/Scintela/.github/blob/main/CODE_OF_CONDUCT.md)
+
+            Your first PR at **Scintela** — a single spark can start a prairie fire. Thank you! 🌟
