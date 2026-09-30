@@ -4,7 +4,7 @@
 
 **Small Sparks. Open Intelligence.**
 
-欢迎来到 Scintela 星火开源社区!
+欢迎来到 Scintela 星烁开源社区!
 
 </div>
 
