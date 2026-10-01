@@ -1,5 +1,16 @@
 # 社区项目 / Community Projects
 
+## 进行中 / Active
+
+### cAGENT
+
+**轻量级嵌入式 Agent 运行时** / Lightweight Agent Runtime for Embedded Systems.
+
+CMake + Kconfig,支持 ESP-IDF 与 OpenVela,内置 26 篇 ADR;双语文档站已上线。
+
+- 仓库:[Scintela/cAGENT](https://github.com/Scintela/cAGENT)
+- 文档:[scintela.github.io/cAGENT](https://scintela.github.io/cAGENT/)
+
 ## 筹备中 / Incubating
 
 ### Scintela Matrix
